@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+    background-image: url("mosaico.jpg");
+    background-repeat: repeat;
+    background-position: contain;
+    background-size: 100px;
+}
+
+.hp1 {
+    color: #fff;
+    font-size: 30px;
+}
+
+.hp2 {
+    color: #000;
+    font-size: 30px;
+}
+
+.box {
+    background-image: url("fundoescuro.jpg");
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 500px;
+    margin: 30px;
+    padding: 50px;
+}
+
+.box2 {
+    background-image: url("fundoclaro.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    height: 700px;
+    width: 500px;
+    margin: 30px;
+    padding: 50px
+}
+
+

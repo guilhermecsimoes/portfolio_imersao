@@ -1,0 +1,21 @@
+body {
+    background-color: #ccc;
+}
+.h1-css {
+    color: #0F5F6F;
+    font-size: 20px;
+}
+.p-css {
+    color: #01090B;
+    font-size: 20px;
+}
+.div1 {
+    width: 50%;
+    height: 500px;
+    background-color: #f04c0b4f;
+}
+.div2 {
+    width: 25%;
+    height: 200px;
+    background-color: #0f5f6f27;
+}

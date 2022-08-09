@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body {
+    background-image: linear-gradient(to right, #EBD913, #FFF585, #DBD15C);
+}
+.box {
+    height: 500px;
+    width: 500px;
+    margin: 30px;
+    padding: 50px;
+    background-image: radial-gradient(circle, #26008F, #7E5CDB);
+}
+.fonte {
+    color: #00ffff;
+    font-size: 40px;
+    text-align: center;
+}
+
+.box2 {
+    height: 500px;
+    width: 500px;
+    margin: 30px;
+    padding: 50px;
+    background-image: radial-gradient(circle, #3b8d04, #035c03);
+}
+.fonte2 {
+    color: #f88de6;
+    font-size: 40px;
+    text-align: center;
+}

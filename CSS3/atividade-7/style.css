@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Lato, sans-serif;
+}
+
+.header {
+    padding: 20px;
+    background-color: #2f117f;
+    font-family: Lato, sans-serif;
+}
+
+.titulo1 {
+    margin-bottom: 0px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #fff;
+    font-family: Lato, sans-serif;
+}
+
+.titulo2 {
+    margin-bottom: 20px;
+}
+
+.secao {
+    padding: 20px;
+}
+
+.menu {
+    width: 100px;
+    background-color: #6126ff;
+    font-family: Lato, sans-serif;
+}
+
+.menu-itens {
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    font-family: Lato, sans-serif;
+}
+
+.menu-item {
+    margin: 0;
+    padding: 10px;
+    font-family: Lato, sans-serif;
+}
+
+.menu-link {
+    color: #fff;
+    text-decoration: none;
+    font-family: Lato, sans-serif;
+}
+
+.legenda {
+    font-size: 14px;
+    color: #000;
+    font-family: Lato, sans-serif;
+}
+
+
+.input-texto {
+    padding: 10px;
+    font-size: 14px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #6126ff;
+    border-radius: 5px;
+    color: #6126ff;
+    font-family: Lato, sans-serif;
+    line-height: 1.6;
+    
+}
+
+.select {
+    padding: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #6126ff;
+    border-radius: 5px;
+    color: #6126ff;
+    font-family: Lato, sans-serif;
+}
+
+.botao {
+    padding: 10px;
+    border-width: 0;
+    font-size: 15px;
+    background-color: #2f117f;
+    color: #f1d703;
+    border-width: 0;    
+    cursor: pointer;
+    font-family: Lato, sans-serif;
+    margin-bottom: normal;
+}
+
+.limpar {
+    padding: 10px;
+    border-width: 0;
+    font-size: 15px;
+    background-color: #f1d703;
+    color: #6126ff;
+    border-width: 2px;       
+    border-radius: 5px;
+    font-family: Lato, sans-serif;
+}
+
+.rodape {
+    margin: 0px;
+    padding: 20px;
+    background-color: #6126ff;
+    color: #fff;
+    font-family: Lato, sans-serif;
+}
+
+span {
+    font-size: 12px;
+    font-family: Lato, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Lato, sans-serif;
+}

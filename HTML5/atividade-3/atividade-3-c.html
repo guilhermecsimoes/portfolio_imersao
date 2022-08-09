@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="forms.ico" type="image/x-icon">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>Dados cadastrais</h1>
+    <form>
+        <div>
+            <label>
+                Nome
+                <input type="text" name="nome" placeholder="Qual o seu  nome completo?" required>
+            </label>
+        </div>
+        <div>
+            <label>
+                E-mail
+                <input type="email" name="email" placeholder="seuemail@seuprovedor.com" required>
+            </label>
+        </div>
+        <div>
+            <label>
+                Senha
+                <input type="password" name="senha" required>
+            </label>
+        </div>
+        <div>
+            <label>
+                Idade
+                <input type="number" name="idade" placeholder="Qual a sua idade?" required>
+            </label>
+        </div>
+        <div>
+            Você estuda no momento?
+            <label>
+                <input type="radio" name="estudante" value="sou estudante" required>
+                sou estudante
+            </label>
+            <label>
+                <input type="radio" name="estudante" value="não sou estudante" required>
+                não sou estudante
+            </label>
+        </div>
+        <div>
+            <label>
+                <input type="checkbox" name="termos_de_uso" required>Aceito os termos de uso
+            </label> <!--Colocar o input antes do nome, faz com que a caixinha aparece antes do nome Termos de uso-->
+        </div>
+        <div>
+            <button>Enviar</button>
+        </div>
+    </form>
+</body>
+</html>
